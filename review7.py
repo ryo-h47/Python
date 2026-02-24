@@ -25,7 +25,7 @@ print("{}人".format(s))
 sum=0
 for i in l:
     sum+=i
-    ave=sum/len(l)
+ave=sum/len(l)
 print("{}点".format(ave))
 a="abracadabradabra"
 num=0
